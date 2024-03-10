@@ -1,8 +1,3 @@
--- MySQL dump 10.13  Distrib 8.0.26
---
--- Host: 34.133.50.179    Database: dbcovidtesting
--- ------------------------------------------------------
--- Server version	5.7.34-google
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
